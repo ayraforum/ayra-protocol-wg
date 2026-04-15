@@ -1,6 +1,6 @@
-# ACWG Decisions
+# APWG Decisions
 
-This log records formal decisions made by the Ayra Card Working Group.
+This log records formal decisions made by the Ayra Protocol Working Group.
 
 | ID | Date | Title | Link |
 |----|------|-------|------|

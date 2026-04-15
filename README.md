@@ -1,10 +1,11 @@
-# Ayra Card Working Group (ACWG)
+# Ayra Protocol Working Group (APWG)
 
-The Ayra Card Working Group (ACWG) is responsible for the design,
-governance, and evolution of the Ayra Card specification and ecosystem.
+The Ayra Protocol Working Group (APWG) is responsible for the design,
+governance, and evolution of the Ayra Protocol specification and ecosystem,
+including the Ayra Card concept as a component of the protocol.
 
 ## Scope
-- Ayra Card technical direction
+- Ayra Protocol technical direction (including the Ayra Card)
 - Interoperability and standards alignment
 - Community coordination
 
@@ -14,7 +15,7 @@ governance, and evolution of the Ayra Card specification and ecosystem.
 - Contributions happen via GitHub Issues and Pull Requests
 
 ## Quick Links
-- [Charter](https://governance.ayra.forum/governance-bodies/working-groups/ayra-card-wg-charter)
+- [Charter](https://governance.ayra.forum/governance-bodies/working-groups/ayra-protocol-wg-charter)
 - [Meetings](meetings/)
 - [Decisions](decisions/)
 - [Proposals](proposals/)
@@ -24,7 +25,7 @@ governance, and evolution of the Ayra Card specification and ecosystem.
 The following assumes you are an Ayra Member:
 
 1. Log into GitHub
-2. Open the relevant repository (e.g. `acwg`)
+2. Open the relevant repository (e.g. `ayra-protocol-wg`)
 3. Click the pencil icon to edit a file
 4. Commit changes (or open a Pull Request)
 

@@ -1,6 +1,6 @@
 ---
 name: Meeting Agenda Item
-about: Propose an agenda item for the next ACWG meeting
+about: Propose an agenda item for the next APWG meeting
 ---
 
 ## Topic

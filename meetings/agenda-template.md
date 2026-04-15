@@ -1,4 +1,4 @@
-# ACWG Meeting – YYYY.MM.DD
+# APWG Meeting – YYYY.MM.DD
 
 **Time:** XX:XX-XX:XX UTC  
 **Location:** Google Meet  
@@ -19,11 +19,11 @@ The purpose of this Working Group is to focus on technical and governance matter
 
 Thank you.
 
-1. [Item # - title](https://github.com/ayra-foundation/acwg/issues/##)
-2. [Item #2 - title](https://github.com/ayra-foundation/acwg/issues/##)
+1. [Item # - title](https://github.com/ayraforum/ayra-protocol-wg/issues/##)
+2. [Item #2 - title](https://github.com/ayraforum/ayra-protocol-wg/issues/##)
 
 ## Notes
-### 1. Topic 2
+### 1. Topic 1
 - Key discussion points
 - Open questions
 
